@@ -1,4 +1,4 @@
-# Hello Wordl! I'm Leon, a German Web Developer 👋
+# Hello World! I'm Leon, a German Web Developer 👋
 👨‍💻 working as a web developer since 2022
 
 # 💻 Tech Stack:
