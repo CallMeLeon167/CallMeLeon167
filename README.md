@@ -1,3 +1,5 @@
+<img src="banner.png" alt="GitHub Banner" width="100%" />
+
 # Hello World! I'm Leon, a German Web Developer 👋
 👨‍💻 working as a web developer since 2022
 
